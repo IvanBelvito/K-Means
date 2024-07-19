@@ -1,0 +1,1 @@
+java -jar kmeansClientBase.jar 127.0.0.1 8080
